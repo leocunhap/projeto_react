@@ -1,0 +1,70 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "title": "Perfume Feminino Importado Scandal 80Ml Original",
+      "category": "Produto 1 da minha lista",
+      "image": "https://images-americanas.b2w.io/produtos/5553336743/imagens/perfume-feminino-importado-scandal-80ml-original-80-ml/5553336743_1_xlarge.jpg",
+      "price": 733.55
+    },
+    {
+      "id": 2,
+      "title": "Kit Calvin Klein 2 Perfumes Ck One 100ml E Ck Be 100ml",
+      "category": "Produto 2 da minha lista",
+      "image": "https://images-americanas.b2w.io/produtos/26202394/imagens/kit-calvin-klein-2-perfumes-ck-one-100ml-e-ck-be-100ml/26202394_1_large.jpg",
+      "price": 368.81
+    },
+    {
+      "id": 3,
+      "title": "VERSACE / KIT COFFRET VERSACE POUR HOMME MASCULINO EAU DE TOILETTE",
+      "category": "Produto 3 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw2df58fb0/images/hi-res-BR/8011003996193_1000px.jpg?sw=400&sh=400&sm=fit",
+      "price": 35.55
+    },
+    {
+      "id": 4,
+      "title": "MARC JACOBS / PERFUME MARC JACOBS PERFECT FEMININO EAU DE TOILETTE",
+      "category": "Produto 4 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw51baf68f/images/hi-res-BR/MJA_PERF_EDT_23_100ml_1500px.jpg?sw=400&sh=400&sm=fit",
+      "price": 58.55
+    },
+    {
+      "id": 5,
+      "title": "JEAN PAUL GAULTIER / PERFUME JEAN PAUL GAULTIER SCANDAL POUR HOMME LE PARFUM MASCULINO EAU DE PARFUM",
+      "category": "Produto 5 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw28a488ce/images/hi-res-BR/8435415065191.1_1500px.jpg?sw=400&sh=400&sm=fit",
+      "price": 18.55
+    },
+    {
+      "id": 6,
+      "title": "GIVENCHY / DESODORANTE GIVENCHY GENTLEMAN SOCIETY MASCULINO",
+      "category": "Produto 6 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwa38cb06c/images/hi-res-BR/3274872450653_p011244_gentleman_society_deo_spray_150ml_a_9_cmyk_152825_1000px.jpg?sw=400&sh=400&sm=fit",
+      "price": 12.55
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8,
+      "title": "CAROLINA HERRERA / BODY SPRAY CAROLINA HERRERA 212 VIP MEN BLACK",
+      "category": "Produto 8 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw38f64914/images/hi-res-BR/spary_black3_acoplado_3500_frontalcon_1500px_1.jpg?sw=1200&sh=1200&sm=fit",
+      "price": 249
+    },
+    {
+      "id": 9,
+      "title": "CAROLINA HERRERA PERFUME CAROLINA HERRERA 212 SEXY MEN MASCULINO EAU DE TOILETT",
+      "category": "Produto 9 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw3b01bbeb/images/hi-res-BR/651165_1.jpg?sw=1200&sh=1200&sm=fit",
+      "price": 599
+    },
+    {
+      "id": 10,
+      "title": "CAROLINA HERRERA PERFUME CAROLINA HERRERA 212 MEN NYC MASCULINO EAU DE TOILETTE",
+      "category": "Produto 10 da minha lista",
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwab1753f6/images/hi-res-BR/SCH-21203_8411061853207_1000px.jpg?sw=1200&sh=1200&sm=fit",
+      "price": 849
+    }
+  ]
+}
