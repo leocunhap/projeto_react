@@ -1,3 +1,31 @@
+<h1>  Projeto em React </h1>
+
+## 😃 Previw Desktop 
+
+## Desktop 
+
+![](./public/screencapture-projeto-react-tan-vercel-app-2023-06-16-15_45_00.png)
+
+## 💫 Autor | Author
+
+- GitHub - [@leocunhap](https://github.com/NicoleDPizetta)
+- LinkedIn - [@Léo Cunha](https://www.linkedin.com/in/léoc-cunha/)
+
+## 💫 Agradecimentos | Acknowledgments
+
+BR: Agradeço à [Bruno Da Silva Pedroso] por disponibilizar este templete, o resultado ficou incrível. 🤩
+
+<br>
+
+- GitHub - [@brunoonurb](https://github.com/brunoonurb)
+
+<br>
+EN: Thanks to [Bruno da Silva] for making this templete available, the result was amazing. 🤩
+
+---
+
+<br>
+
 # AULA 1 ##
 ## INICIO REACT
     Introdução react
