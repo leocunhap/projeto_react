@@ -10,6 +10,9 @@
 - GitHub - [@leocunhap](https://github.com/NicoleDPizetta)
 - LinkedIn - [@Léo Cunha](https://www.linkedin.com/in/léoc-cunha/)
 
+<br>
+
+
 ## 💫 Agradecimentos | Acknowledgments
 
 BR: Agradeço à [Bruno Da Silva Pedroso] por disponibilizar este templete, o resultado ficou incrível. 🤩
